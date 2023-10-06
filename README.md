@@ -1,6 +1,7 @@
 # clock_using_custom_paint
 
-A new Flutter project.
+
+https://github.com/devtanvirmahtab/clock_using_custom_paint/assets/118268749/6b5d4fe8-7b86-4161-b183-31b890c9d5e5
 
 ## Getting Started
 
